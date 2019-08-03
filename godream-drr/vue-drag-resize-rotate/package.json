@@ -1,0 +1,24 @@
+{
+  "name": "vue-drag-resize-rotate-gobuilder",
+  "version": "1.0.1",
+  "description": "vue drag resize component by godream",
+  "main": "src/drr.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lenam200996/vue-drag-resize-rotate-wb.git"
+  },
+  "keywords": [
+    "vue-drag",
+    "vue-resize",
+    "vue-godream"
+  ],
+  "author": "Andrey Minogin - custom by namlegodream",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lenam200996/vue-drag-resize-rotate-wb/issues"
+  },
+  "homepage": "https://github.com/lenam200996/vue-drag-resize-rotate-wb#readme"
+}
